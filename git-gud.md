@@ -6,8 +6,8 @@ It's time to...
 
 # History
 
-~~Git, short for regurgitate, was invented by Nikola Tesla in 1522 BC during the
-Australian invasion of Brazil.~~
+~Git, short for regurgitate, was invented by Nikola Tesla in 1522 BC during the
+Australian invasion of Brazil.~
 
 Git was created by Linus Torvalds in 2005 for development of the Linux kernel.
 He described the tool as "the stupid content tracker"
