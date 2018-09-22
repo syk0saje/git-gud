@@ -1,4 +1,4 @@
-Are you bad? If so, this course is perfect for you!
+wew Are you bad? If so, this course is perfect for you!
 
 It's time to...
 
