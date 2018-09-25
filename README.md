@@ -333,7 +333,7 @@ Because of how git works, it is generally considered bad practice to include
 huge files in git repositories, especially when they are non-text, i.e. **binary**. Common examples are multimedia files (**assets**) and executable files. There are
 many other options for storing and hosting these kinds of files. When in doubt
 about whether or not you should add a file to a git repository, ask your nearest
-data engineer for assitance.
+data engineer for assistance.
 
 ### reset
 
@@ -451,7 +451,7 @@ you want to update the `master` branch to have all the changes done on
 git merge broken-feature
 ```
 
-If git reports that the merge was successfull, then you can rest easy. However,
+If git reports that the merge was successful, then you can rest easy. However,
 if git says there are conflicts that you have to resolve manually, we still have
 some work left to do.
 
