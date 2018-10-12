@@ -694,3 +694,4 @@ You're gonna need it.
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Git happens!](https://about.gitlab.com/2018/08/08/git-happens/)
+- [Learn X in Y minutes Where X=git](https://learnxinyminutes.com/docs/git/)
