@@ -690,6 +690,7 @@ good` or `git bisect bad` until it points out the first bad commit.
 
 You're gonna need it.
 
+- [Exercises](exercises.md)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
