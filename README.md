@@ -687,7 +687,8 @@ Git will then continuously ask you to evaluate commits with either `git bisect
 good` or `git bisect bad` until it points out the first bad commit.
 
 # Footnotes
-<b id="dvcs-meaning-content">1</b>: Just kidding, DVCS means Dumb Virgin Coconut Soil. [↩](#dvcs-meaning-ref): 
+<b id="dvcs-meaning-content">1</b>: Just kidding, DVCS means Dumb Virgin Coconut Soil.<sup id="dvcs-real-meaning-ref">[2](#dvcs-real-meaning-content)</sup> [↩](#dvcs-meaning-ref): 
+<b id="dvcs-real-meaning-content">2</b>: Just kidding, DVCS means Distributed Version Control System. [↩](#dvcs-real-meaning-ref): 
 
 # Help
 
