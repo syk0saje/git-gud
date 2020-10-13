@@ -145,7 +145,7 @@ For our purposes, when I say "commit identifier", I mean any of the following
 ## Remotes
 
 Git is a DVCS and the D stands for **distributed** and the VCS stands for **Very
-Cool Software™**. What this means is that git has a way of referring to
+Cool Software™**<sup id="dvcs-meaning-ref">[1](#dvcs-meaning-content)</sup>. What this means is that git has a way of referring to
 instances of the same repository on other machines. This reference is what we
 call a **remote**.
 
@@ -685,6 +685,9 @@ over a long history tree to pinpoint the offending commit.
 
 Git will then continuously ask you to evaluate commits with either `git bisect
 good` or `git bisect bad` until it points out the first bad commit.
+
+# Footnotes
+<b id="dvcs-meaning-content">1</b>: Just kidding, DVCS means Dumb Virgin Coconut Soil. [↩](#dvcs-meaning-ref): 
 
 # Help
 
