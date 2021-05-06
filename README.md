@@ -642,9 +642,7 @@ Baby no more, adult yes less.
 
 ### rebase
 
-Rebasing is the art of changing the course of history. It is also very useful in
-keeping the history linear, which is helpful in preserving certain bits of
-information and making diagnosis and debugging easier.
+Rebasing is the art of changing the course of history. 
 
 The basic use case of rebase is when you want to replay all of the changes on a
 branch onto another branch **without creating a new commit**. This is done like
@@ -656,9 +654,8 @@ git rebase <BRANCH_YOU_WANT_TO_MERGE_INTO>
 ```
 
 When this is done before merging, what is called a "fast-forward" is possible,
-meaning no additional commit for the merge has to be created, preserving a
-linear history. Some complications may also arise from merge commits that have
-two parents, which is common for unrebased branches.
+meaning no additional commit for the merge has to be created. This is helpful
+in case you want to preserve a linear history.
 
 This doesn't always run free of conflicts, however, and you might be asked to
 resolve some manually. To do so, just stage your changes and `git rebase
